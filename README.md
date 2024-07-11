@@ -1,2 +1,2 @@
 # Bubble Find Game
-Responsive Web page of Spotify
+Responsive & Very interesting simple game
